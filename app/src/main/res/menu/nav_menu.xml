@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_apple"
+            android:icon="@drawable/apple"
+            android:title="Apple"/>
+
+        <item
+            android:id="@+id/nav_orange"
+            android:icon="@drawable/orange"
+            android:title="Orange"/>
+
+        <item
+            android:id="@+id/nav_mango"
+            android:icon="@drawable/mango"
+            android:title="Mango"/>
+
+        <item
+            android:id="@+id/nav_grapes"
+            android:icon="@drawable/grapes"
+            android:title="Grapes"/>
+
+        <item
+            android:id="@+id/nav_strawberry"
+            android:icon="@drawable/strawberry"
+            android:title="Strawberry"/>
+    </group>
+</menu>
